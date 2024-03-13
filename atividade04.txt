@@ -1,0 +1,5 @@
+Resposta: 
+    Paço 1: Eu ligaria o primeiro interruptor, esperaria dois minutos e desligaria.
+    Paço 2: Ligaria o segundo interruptor e depois iria a uma das salas.
+    Paço 3: Se a lâmpada estiver ligada é porquê corresponde ao interruptor 2, caso a lâmpada estiver apagada,
+            eu a tocaria, se estiver quente o interruptor que a ligou foi o 1, se não foi o 3.
